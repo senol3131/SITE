@@ -1,0 +1,1 @@
+<b><center><br><font style=font-size:14px color={renk}>{name}</font><br><font style=font-size:10px color={renk}>({type})</font><br><font color=white style=font-size:12px>{kind}</font><br><br></center><font color=white style=font-size:11px;>{ozellik1}</font><font color=lime style=font-size:11px>{ozellik2}</font><font color=white style=font-size:11px>{ozellik3}</font><br></b>
